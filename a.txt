@@ -1,5 +1,9 @@
 // a test file
-// an file
+<<<<<<< HEAD
+// a file
+=======
+// a file
+>>>>>>> dec
 #include <stdio.h>
 
 int main()
